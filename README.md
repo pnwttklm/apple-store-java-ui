@@ -1,1 +1,1 @@
-# shop-java-ui
+# apple-store-java-ui
